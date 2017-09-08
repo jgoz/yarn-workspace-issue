@@ -1,0 +1,12 @@
+{
+  "name": "@jgoz/workspace-a",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "John Gozde <john@gozde.ca>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "react": "^15.6.1"
+  }
+}

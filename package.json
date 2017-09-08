@@ -1,0 +1,12 @@
+{
+  "name": "@jgoz/workspace-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "John Gozde <john@gozde.ca>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "workspace-a",
+    "workspace-b"
+  ]
+}
