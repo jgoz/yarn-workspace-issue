@@ -8,5 +8,9 @@
   "workspaces": [
     "workspace-a",
     "workspace-b"
-  ]
+  ],
+  "scripts": {
+    "add-bug": "yarn add --dev left-pad && echo \"Note contents of yarn.lock\"",
+    "remove-bug": "yarn workspace @jgoz/workspace-b remove knockout"
+  }
 }
